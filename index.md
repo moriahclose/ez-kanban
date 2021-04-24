@@ -14,7 +14,7 @@ EZ Kanban provides all the functions a Kanban board **needs** with very few extr
 - Add colors to boards, lists, and items **This is an extra, but helpful for quick visualization :)*
 
 ## The Database
-![Database Design](/readme_assets/database_design.png)
+![Database Design](/assets/database_design.png)
 
 ## The Tech Stack
 *Coming Soon*
