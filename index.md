@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# EZ Kanban
 
-You can use the [editor on GitHub](https://github.com/moriahclose/ez-kanban/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Goal of This Project
+To finish a React app in 90 days! I want to get better at working on personal projects in my free time, so the goal of this project is to get in the habit of doing just that. I want to prove to myself that I can complete an outside project without overworking.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is EZ Kanban
+EZ Kanban provides all the functions a Kanban board **needs** with very few extras. You get the organization of a Kanban board minus all of the clutter from excessive features that similar apps provide. The app is geared towards simple or personal projects, where additional features may not be needed or may even get in the way of making a simple plan.
 
-### Markdown
+## Features
+- Create boards
+- Create lists within those boards
+- Create items within the lists
+- Move items between lists and boards
+- Add colors to boards, lists, and items **This is an extra, but helpful for quick visualization :)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The Database
+![Database Design](/readme_assets/database_design.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moriahclose/ez-kanban/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## The Tech Stack
+*Coming Soon*
