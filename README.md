@@ -1,5 +1,6 @@
 # EZ Kanban
-https://moriahclose.github.io/ez-kanban/
+(Work in Progress)
+Documentation: https://moriahclose.github.io/ez-kanban/
 
 ## Goal of This Project
 To finish a React app in 90 days! I want to get better at working on personal projects in my free time, so the goal of this project is to get in the habit of doing just that. I want to prove to myself that I can complete an outside project without overworking.
